@@ -9,3 +9,5 @@ Designed with scalability and resource constraints in mind, the project ensures 
 Comprehensive validation techniques, including cross-validation and precision-recall metrics, were employed to ensure the model’s robustness and reliability. Potential biases in the dataset were also addressed to refine the model’s predictive capabilities further, making it well-suited for real-world implementation.
 
 This project showcases the practical benefits of machine learning in medical diagnostics, combining advanced algorithms, efficient feature selection, and a focus on real-world applications. It serves as a strong example of how AI can revolutionize healthcare by improving diagnostic accuracy and accessibility in diverse settings.
+
+Report: https://drive.google.com/file/d/1w8DqYJKJOcr6brQ0rmtiuibG0cZpVs7e/view?usp=sharing
